@@ -1,0 +1,20 @@
+\documentclass[a4paper,12pt]{article}
+\author{Adam Ilyas 725819}
+\title{
+CS-E4640 Big Data Platform \\ CHEAT SHEET
+}
+
+\pagestyle{empty}
+\usepackage{amsfonts}
+\usepackage{verbatim}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+
+\begin{document}
+\vspace{8pt}
+\setlength\parindent{0pt}
+\maketitle
+Q
+\end{document}
